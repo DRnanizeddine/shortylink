@@ -16,7 +16,7 @@ A lightweight, feature-packed client-side URL Shortener application built with H
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/<your-username>/shortylink.git
+   git clone https://github.com/DRnanizeddine/shortylink.git
    ```
 2. Navigate into the folder:
    ```bash
